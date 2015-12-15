@@ -18,6 +18,5 @@ create a PULL ticket @ GITHUB
 4. (MARK) REVIEW Code
 (MARK) give comments
 (MARK) merge MY-TOPIC-BRANCH to Master
+//last step
 
-5. (Yong)Commit
-Remot/PUSH "My-Topic-Branch"
