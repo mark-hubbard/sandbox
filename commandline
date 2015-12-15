@@ -1,0 +1,10 @@
+step 1, from project repository bring the changes and test
+git fetch origin
+git checkout -b y10 origin/y10
+git merge master
+
+step2 Merge the changes and update on GitHub
+git checkout master
+git merge --no--ff y10
+git push origin master
+
